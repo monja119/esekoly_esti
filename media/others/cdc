@@ -1,0 +1,100 @@
+NOM : SEKOLY
+TECHNO : PHP, JS, HTML, CSS
+FRAMEWORKS: BOOTSTRAP
+PLATEFORM: WEB
+
+OBJECTIFS :
+    - faciliter la gestion de la vie scolaire
+
+
+FONCTIONNALITÉS et ONGETS :
+    - bar de recherche
+    - profil :
+        * CRUD profil
+        * fil
+        * deconnexion
+
+    - tableau de bord :
+        * annonce
+        * evèment
+
+    - paramếtres :
+        * securité : changer de mot de passe, supprimer mon compte
+        * mode sombre
+        * feed-back
+
+    - forum :
+        * creer
+        * type : alternance, sns...
+        * rechercher un  sujet, auteur
+        * repondre
+        * voir plus
+
+    - notifications:
+        * toutes notifications concernant l'utilisateur
+
+    - sac :
+        * etudint :
+            - edt,
+            - mes notes : consulter, reclamer
+            - mes modules
+            - bilan
+            - alerts : activités
+            - recommendation
+            - mes devoirs
+            - frais scolarité
+
+        * enseignant :
+            - edt
+            - crud notes
+            - crud devoirs
+            - listes des etudiants
+            - absences
+            - alerts : activités
+
+        * admin :
+            - crud un module
+            - crud etudint
+            - frais de scolarité: selon l'etudiant, niveau, parcours
+
+
+CHAARTE GRAPHIQUE:
+    - police:
+        google fonts
+
+    - taille de police :
+        * selon la resposivité
+
+    - couleur:
+        light :
+            * blanc, noir, blue
+        dark :
+            * noir, blanc, blue
+
+
+
+
+
+
+
+
+
+backoffice:
+    - authentification
+    - page principale
+    - page d'acceuil : faire la page d'acceuil avec les onglets et les sous onglets
+    - page profile : crud, fil, deconnexion
+    - page tableau de bord : evenement & annonce
+    - page paramếtres : securités & feedack & mode sombre
+    - page forum
+    - page de notifications
+    - sac etudiant
+    - sac enseignant
+    - sac admin
+    -
+
+
+
+
+
+
